@@ -1,0 +1,32 @@
+{
+  "name": "entitizer.utils",
+  "version": "0.0.1",
+  "description": "Entitizer util module",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "atonic": "^1.0.4",
+    "bluebird": "^2.10.1",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/entitizer/utils-js.git"
+  },
+  "keywords": [
+    "utils",
+    "entitizer",
+    "core"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entitizer/utils-js/issues"
+  },
+  "homepage": "https://github.com/entitizer/utils-js"
+}
