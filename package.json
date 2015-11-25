@@ -1,6 +1,6 @@
 {
   "name": "entitizer.utils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Entitizer util module",
   "main": "./lib/index.js",
   "engines": {
