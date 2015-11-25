@@ -3,13 +3,12 @@
   "version": "0.0.1",
   "description": "Entitizer util module",
   "main": "./lib/index.js",
-  "dependencies": {
-    "atonic": "^1.0.4",
-    "bluebird": "^2.10.1",
-    "lodash": "^3.10.1"
+  "engines": {
+    "node": ">=0.10.3"
   },
+  "dependencies": {},
   "devDependencies": {
-    "mocha": "^2.3.3"
+    "mocha": "^2.3.4"
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
